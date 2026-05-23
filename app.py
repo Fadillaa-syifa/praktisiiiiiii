@@ -1,7 +1,7 @@
 # app.py
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+import plotly as px
 from datetime import datetime
 
 # Dummy user data (untuk simulasi login)
